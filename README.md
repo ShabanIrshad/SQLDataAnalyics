@@ -12,11 +12,12 @@ The Data analytics (SQL) Internship performed in summer internship from ShriPrit
     
 
 **#skillsLearned**
--in this internship I have learn the successfully data representation with using SQL Keywords.
--Elements of Database - Table,Row, Column etc.
--DBMS, RDBMS, hierarchial DBMS, Oobject Oriented DBMS and Network DBMS.
--Difference between procedural and Declarative programing languages.
-- DDL, DML,  DCL, TCL commannds used.
+
+ -in this internship I have learn the successfully data representation with using SQL Keywords.
+ -Elements of Database - Table,Row, Column etc.
+ -DBMS, RDBMS, hierarchial DBMS, Oobject Oriented DBMS and Network DBMS.
+ -Difference between procedural and Declarative programing languages.
+ - DDL, DML,  DCL, TCL commannds used.
 - Difference between Spreadsheet and Database.
 - Primary Key, Foreign Key, Uunique key constraints, along with Datatypes and Operators.
 - Data Manupulation with functions like (Count, sum, max, avarage and Like).
