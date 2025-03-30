@@ -1,7 +1,7 @@
 # SQLDataAnalyics
 The Data analytics (SQL) Internship performed in summer internship from ShriPriti Educational and IT hub. Fully curated for analysing data representation and data control machanism.
 
-![Certificate Achieved](https://github.com/ShabanIrshad/SQLDataAnalyics/blob/main/ShripritiEdu/Certificate.pdf)
+![Certificate Achieved](https://github.com/ShabanIrshad/SQLDataAnalyics/blob/main/ShripritiEdu/CertificateOfAchievement.png)
 
 
  **#Insights**
