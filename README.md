@@ -1,6 +1,9 @@
 # SQLDataAnalyics
 The Data analytics (SQL) Internship performed in summer internship from ShriPriti Educational and IT hub. Fully curated for analysing data representation and data control machanism.
 
+![Certificate Achieved](https://github.com/ShabanIrshad/SQLDataAnalyics/blob/main/ShripritiEdu/Certificate.pdf)
+
+
  **#Insights**
  - Created multiple  tabless  and relations between then with foriegn and primary key representation.
  - got assign multiple(4) assignments throughout the  Internship.
@@ -23,4 +26,4 @@ The Data analytics (SQL) Internship performed in summer internship from ShriPrit
 - Data Manupulation with functions like (Count, sum, max, avarage and Like).
 - Learned joins(Inner join, left Join, Right join, self join,cross join.
 - sub queries and window Functions (Rank,dense_rank, Row_numberr, Lead and Lag.
-- learn to adappt help   from AI (DebugCode.ai).
+- learn to adappt help   from AI (DebugCode.ai).  
